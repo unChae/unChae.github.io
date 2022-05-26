@@ -6,7 +6,7 @@
 name: unChae
 
 # Short bio or description (displayed in the header)
-description: Developer
+description: Developer in Tokyo
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars.githubusercontent.com/u/33308306?s=400&u=ed64e5ffc666082aa81073c8c090d292b186c2df&v=4
@@ -21,8 +21,8 @@ footer-links:
   email: darrun45@gmail.com
   facebook:
   flickr:
-  github: https://github.com/unChae
-  instagram: https://www.instagram.com/un_chae_/
+  github: unChae
+  instagram: un_chae_
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
